@@ -1,6 +1,3 @@
-# Test-Task
-
-
 # Subscription Tracker (Netflix Example)
 
 This project recreates the core UI for a subscription service dashboard.  
